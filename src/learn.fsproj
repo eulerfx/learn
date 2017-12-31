@@ -5,7 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Library.fs" />
+    <Compile Include="AD.fs" />
+    <Compile Include="Learn.fs" />
   </ItemGroup>
 
 </Project>
